@@ -5,7 +5,7 @@
 First, clone the repository
 
 ```sh
-git clone https://github.com/yaz008/EspScript
+git clone https://github.com/yaz008/get-mouse-position.git
 ```
 
 Then create Python 3.12 virtual environment, activate it and run
